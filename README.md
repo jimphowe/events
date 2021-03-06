@@ -7,6 +7,15 @@ https://towardsdatascience.com/setting-up-postgresql-in-debian-based-linux-e4985
 
 https://formden.com/blog/date-picker
 
+The following pieces of specification were unclear and the design decisions made are listed hear:
+
+- For a date picker a widget was used only for the day, time can not be chosen
+
+- There is no enforcement or security checking when a user logs in with the wrong email or makes multiple accounts.
+  This will be added with more checking in part 2.
+  
+- Styling is intentional, and just uses bootstrap.
+
 # Events
 
 To start your Phoenix server:
