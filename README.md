@@ -1,3 +1,12 @@
+# For Graders:
+
+This assignment contains both ideas and some code from Nat Tucks Photo_Blog lectures. Additionally online guides were 
+used to help set up postgres and to create a date picker.
+
+https://towardsdatascience.com/setting-up-postgresql-in-debian-based-linux-e4985b0b766f
+
+https://formden.com/blog/date-picker
+
 # Events
 
 To start your Phoenix server:
