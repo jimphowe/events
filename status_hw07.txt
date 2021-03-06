@@ -24,7 +24,7 @@ events.jim-howe.com
 
 4. Is your app functionality complete? If not, what's missing?
 
-Not completely... It was fully working, and then something I changed caused the body of 
+Yes! The functionality is complete as far as I understood the specification
 
 
 
